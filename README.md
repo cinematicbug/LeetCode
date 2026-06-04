@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/cinematicbug/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/cinematicbug/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
