@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/cinematicbug/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/cinematicbug/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/cinematicbug/LeetCode/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cinematicbug/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/cinematicbug/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/cinematicbug/LeetCode/tree/master/0643-maximum-average-subarray-i) |
