@@ -21,25 +21,15 @@ public:
             if (temp_2->val != 0)
             {
                 sum += temp_2->val;
-                temp_2 = temp_2->next;
             }
             else
             {
-                if (!dummy->next)
-                {
-                    ListNode* new_node = new ListNode(sum);
-                    dummy->next = new_node;
-                    new_tail = new_node;
-                }
-                else
-                {
                     ListNode* new_node = new ListNode(sum);
                     new_tail->next = new_node;
                     new_tail = new_node;
-                }
-                temp_2 = temp_2->next;
-                sum = 0;
+                    sum = 0;
             }
+            temp_2 = temp_2->next;
         }
 
         ListNode *res = dummy->next;
