@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/cinematicbug/LeetCode/tree/master/0739-daily-temperatures) |
 | [1580-shuffle-the-array](https://github.com/cinematicbug/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cinematicbug/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/cinematicbug/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/cinematicbug/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/cinematicbug/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cinematicbug/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/cinematicbug/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cinematicbug/LeetCode/tree/master/0200-number-of-islands) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
