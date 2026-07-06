@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cinematicbug/LeetCode/tree/master/0011-container-with-most-water) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/cinematicbug/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cinematicbug/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cinematicbug/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/cinematicbug/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/cinematicbug/LeetCode/tree/master/0057-insert-interval) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cinematicbug/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cinematicbug/LeetCode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/cinematicbug/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cinematicbug/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
