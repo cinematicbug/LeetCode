@@ -10,29 +10,20 @@ public:
 
         while (left < right)
         {
-            if (isalnum(s[left]) && isalnum(s[right]))
-            {
-                if (s[left] != s[right])
-                {
-                    return false;
-                }
-                left++;
-                right--;
-            }
-            else if (isalnum(s[left]) && !isalnum(s[right]))
-            {
-                right--;
-            }
-            else if (isalnum(s[right]) && !isalnum(s[left]))
+            while (left < right && !isalnum(s[left]))
             {
                 left++;
             }
-            else if (!isalnum(s[left]) && !isalnum(s[right]))
+            while (left < right && !isalnum(s[right]))
             {
-                left++;
                 right--;
             }
-            
+            if (s[left] != s[right])
+            {
+                return false;
+            }
+            left++;
+            right--;
         }
         return true;
     }
