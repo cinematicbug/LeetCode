@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cinematicbug/LeetCode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/cinematicbug/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/cinematicbug/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/cinematicbug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/cinematicbug/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/cinematicbug/LeetCode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cinematicbug/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/cinematicbug/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/cinematicbug/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/cinematicbug/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/cinematicbug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/cinematicbug/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cinematicbug/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/cinematicbug/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/cinematicbug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
