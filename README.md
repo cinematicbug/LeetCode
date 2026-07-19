@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/cinematicbug/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/cinematicbug/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/cinematicbug/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cinematicbug/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cinematicbug/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/cinematicbug/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/cinematicbug/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/cinematicbug/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/cinematicbug/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/cinematicbug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/cinematicbug/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Dynamic Programming
 |  |
 | ------- |
