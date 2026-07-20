@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
 | [0292-nim-game](https://github.com/cinematicbug/LeetCode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/cinematicbug/LeetCode/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/cinematicbug/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/cinematicbug/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/cinematicbug/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cinematicbug/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
