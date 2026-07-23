@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/cinematicbug/LeetCode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/cinematicbug/LeetCode/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cinematicbug/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/cinematicbug/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cinematicbug/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
