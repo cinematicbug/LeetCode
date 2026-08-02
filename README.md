@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/cinematicbug/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/cinematicbug/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/cinematicbug/LeetCode/tree/master/0057-insert-interval) |
+| [0136-single-number](https://github.com/cinematicbug/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/cinematicbug/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cinematicbug/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/cinematicbug/LeetCode/tree/master/0200-number-of-islands) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/cinematicbug/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cinematicbug/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
