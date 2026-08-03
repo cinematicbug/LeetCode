@@ -4,8 +4,8 @@ public:
         stack<char> st;
 
         st.push(s[0]);
-
-        for (int i = 1; i < s.size(); i++) {
+        int n = s.size();
+        for (int i = 1; i < n; i++) {
             if (!st.empty() && s[i] == st.top()) {
                 st.pop();
             } else {
