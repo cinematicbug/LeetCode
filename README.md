@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/cinematicbug/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/cinematicbug/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/cinematicbug/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/cinematicbug/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/cinematicbug/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/cinematicbug/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/cinematicbug/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/cinematicbug/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/cinematicbug/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
