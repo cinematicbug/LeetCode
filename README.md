@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/cinematicbug/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/cinematicbug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/cinematicbug/LeetCode/tree/master/0739-daily-temperatures) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/cinematicbug/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/cinematicbug/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cinematicbug/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/cinematicbug/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/cinematicbug/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/cinematicbug/LeetCode/tree/master/0278-first-bad-version) |
 | [0713-subarray-product-less-than-k](https://github.com/cinematicbug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/cinematicbug/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/cinematicbug/LeetCode/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/cinematicbug/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
