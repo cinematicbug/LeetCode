@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/cinematicbug/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cinematicbug/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cinematicbug/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/cinematicbug/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/cinematicbug/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/cinematicbug/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/cinematicbug/LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/cinematicbug/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cinematicbug/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/cinematicbug/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/cinematicbug/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/cinematicbug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cinematicbug/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
