@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cinematicbug/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/cinematicbug/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2102-find-the-middle-index-in-array](https://github.com/cinematicbug/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/cinematicbug/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cinematicbug/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cinematicbug/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/cinematicbug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/cinematicbug/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/cinematicbug/LeetCode/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/cinematicbug/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/cinematicbug/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Dynamic Programming
 |  |
