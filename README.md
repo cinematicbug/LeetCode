@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/cinematicbug/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/cinematicbug/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cinematicbug/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/cinematicbug/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/cinematicbug/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/cinematicbug/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/cinematicbug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/cinematicbug/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/cinematicbug/LeetCode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/cinematicbug/LeetCode/tree/master/1013-fibonacci-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cinematicbug/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/cinematicbug/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/cinematicbug/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/cinematicbug/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/cinematicbug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/cinematicbug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/cinematicbug/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0917-boats-to-save-people](https://github.com/cinematicbug/LeetCode/tree/master/0917-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/cinematicbug/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
