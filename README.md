@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/cinematicbug/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2470-removing-stars-from-a-string](https://github.com/cinematicbug/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/cinematicbug/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3195-separate-black-and-white-balls](https://github.com/cinematicbug/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cinematicbug/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/cinematicbug/LeetCode/tree/master/0011-container-with-most-water) |
 | [0917-boats-to-save-people](https://github.com/cinematicbug/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/cinematicbug/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3195-separate-black-and-white-balls](https://github.com/cinematicbug/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/cinematicbug/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/cinematicbug/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cinematicbug/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3195-separate-black-and-white-balls](https://github.com/cinematicbug/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
 |  |
 | ------- |
