@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/cinematicbug/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/cinematicbug/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cinematicbug/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/cinematicbug/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/cinematicbug/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2102-find-the-middle-index-in-array](https://github.com/cinematicbug/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/cinematicbug/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/cinematicbug/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/cinematicbug/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/cinematicbug/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/cinematicbug/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3226-minimum-number-game](https://github.com/cinematicbug/LeetCode/tree/master/3226-minimum-number-game) |
 ## Sliding Window
@@ -421,5 +423,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/cinematicbug/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3226-minimum-number-game](https://github.com/cinematicbug/LeetCode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
