@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cinematicbug/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/cinematicbug/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/cinematicbug/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/cinematicbug/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/cinematicbug/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cinematicbug/LeetCode/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/cinematicbug/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/cinematicbug/LeetCode/tree/master/0898-transpose-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/cinematicbug/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cinematicbug/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/cinematicbug/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/cinematicbug/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/cinematicbug/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cinematicbug/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/cinematicbug/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/cinematicbug/LeetCode/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/cinematicbug/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
