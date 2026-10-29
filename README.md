@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/cinematicbug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/cinematicbug/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/cinematicbug/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/cinematicbug/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/cinematicbug/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/cinematicbug/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/cinematicbug/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cinematicbug/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/cinematicbug/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/cinematicbug/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/cinematicbug/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cinematicbug/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/cinematicbug/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/cinematicbug/LeetCode/tree/master/1036-rotting-oranges) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/cinematicbug/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/cinematicbug/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/cinematicbug/LeetCode/tree/master/0322-coin-change) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/cinematicbug/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/cinematicbug/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -465,4 +468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/cinematicbug/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/cinematicbug/LeetCode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/cinematicbug/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
