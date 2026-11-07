@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/cinematicbug/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/cinematicbug/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/cinematicbug/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/cinematicbug/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/cinematicbug/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cinematicbug/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/cinematicbug/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/cinematicbug/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/cinematicbug/LeetCode/tree/master/1036-rotting-oranges) |
+| [1254-deepest-leaves-sum](https://github.com/cinematicbug/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cinematicbug/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/cinematicbug/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/cinematicbug/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/cinematicbug/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/cinematicbug/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/cinematicbug/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cinematicbug/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/cinematicbug/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/cinematicbug/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/cinematicbug/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/cinematicbug/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/cinematicbug/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cinematicbug/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
